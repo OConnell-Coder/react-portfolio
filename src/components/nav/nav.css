@@ -1,0 +1,8 @@
+Nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background: linear-gradient(35deg, teal 50%, black 90%);
+}
+
