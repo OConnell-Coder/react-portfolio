@@ -4,7 +4,7 @@ import { Nav, About, Portfolio } from "./components";
 
 const App = () => {
 
-  const [ page, setPage ] = useState('about');
+  const [ page, setPage ] = useState('portfolio');
   
   return (
     <div className="App">

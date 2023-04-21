@@ -1,2 +1,36 @@
+#projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
+.application {
+    width: 45%;
+    position: relative;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 12px;
+}
 
+.application img {
+    border-radius: 12px;
+    width: 100%;
+    height: 100%;
+}
+
+.description {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    max-width: 50;
+    background: white;
+    border: 2px  solid #000;
+    border-radius: 12px;
+    opacity: .65;
+    padding: 5px 10px;
+}
+
+/* .application:first-child {
+    width: 100%;
+    height: 50vh;
+} */
