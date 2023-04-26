@@ -2,19 +2,20 @@
   text-align: center;
   position: relative;
   min-height: 100vh;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 #pg-content {
-  padding-bottom: 3rem;
+  padding-bottom: 5rem;
 }
 
 #footer {
-  background-color: turquoise;
+  background: linear-gradient(35deg, black 10%, turquoise 90%);
   position: absolute;
   justify-content: space-between;
   bottom: 0;
   width: 100%;
-  height: 3rem;
+  height: 5rem;
   padding-bottom: 1rem;
   font-size: 1.5rem;
 }
