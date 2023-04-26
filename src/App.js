@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState } from "react";
-import { Nav, About, Portfolio, Contact } from "./components";
+import { Nav, About, Portfolio, Contact, Resume } from "./components";
 
 const App = () => {
 
@@ -20,6 +20,8 @@ const App = () => {
           <Portfolio /> : 
         page==='contact' ? 
           <Contact /> : 
+        page==='resume' ?
+          <Resume /> :
           <About />
       }
       </div>
@@ -29,7 +31,10 @@ const App = () => {
           <a href='https://github.com/OConnell-Coder' target='_blank'>GitHub Profile</a>
         </div>
         <div>
-          <a href='https://www.linkedin.com/in/stevie-o-connell-965051274/' target='_blank'> LinkedIn Profile</a>
+          <a href='https://www.linkedin.com/in/stevie-o-connell-965051274/' target='_blank'>LinkedIn Profile</a>
+        </div>
+        <div>
+          <a href="https://stackoverflow.com/users/20749466/stevie?tab=profile" target='_blank'>Stack Overflow Profile</a>
         </div>
       </footer>
     </div>

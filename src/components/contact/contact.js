@@ -3,7 +3,7 @@ import './contact.css';
 
 const Contact = ({setPage}) =>
     <div>
-        {/* <p>Testing</p> */}
+        <h1>Contact Form</h1>
     </div>
 ;
 
