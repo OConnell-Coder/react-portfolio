@@ -1,1 +1,28 @@
+:root {
+    background-color: teal;
+}
 
+#about-me {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    padding: 5%;
+}
+
+#bio-pic img {
+    border-radius: 12px;
+    width: 357.1px;
+    height: 534.9px;
+    float: left;
+    margin: 5px;
+}
+
+#bio-pic p {
+    text-align: left;
+}
+
+#about-me p::first-letter {
+    font-size: 150%;
+}

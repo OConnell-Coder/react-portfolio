@@ -3,7 +3,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
-    background: linear-gradient(35deg, teal 40%, black 90%);
+    background: linear-gradient(35deg, turquoise 40%, black 90%);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -14,7 +14,7 @@ nav h1 {
 
 nav div button {
     margin: 5px;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background: none;
     border: none;
@@ -24,3 +24,10 @@ nav div button {
     font-weight: 900;
 }
 
+nav div button:hover {
+    color: #93c572;
+}
+
+nav div button:active {
+    color: #2E8B57;
+}

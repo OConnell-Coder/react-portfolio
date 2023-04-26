@@ -1,5 +1,22 @@
 .App {
   text-align: center;
+  position: relative;
+  min-height: 100vh;
+}
+
+#pg-content {
+  padding-bottom: 3rem;
+}
+
+#footer {
+  background-color: turquoise;
+  position: absolute;
+  justify-content: space-between;
+  bottom: 0;
+  width: 100%;
+  height: 3rem;
+  padding-bottom: 1rem;
+  font-size: 1.5rem;
 }
 
 .App-logo {
