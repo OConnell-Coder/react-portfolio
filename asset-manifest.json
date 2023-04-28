@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.197fc1ec.css",
+    "main.js": "/react-portfolio/static/js/main.a588bc66.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/profile-pic.jpeg": "/react-portfolio/static/media/profile-pic.6dc3ef9d97e5e2132f9a.jpeg",
+    "static/media/Hey-Boo-Boo.png": "/react-portfolio/static/media/Hey-Boo-Boo.6207b04d7e8050f6b796.png",
+    "static/media/Random-Movie-Night.png": "/react-portfolio/static/media/Random-Movie-Night.89e0602040a72d0fae44.png",
+    "static/media/weather-dashboard-screenshot.png": "/react-portfolio/static/media/weather-dashboard-screenshot.8bdcf8e3f4814ef4f181.png",
+    "static/media/resume-icon.png": "/react-portfolio/static/media/resume-icon.aa73003740de40aea26d.png",
+    "static/media/Coding-Quiz.png": "/react-portfolio/static/media/Coding-Quiz.988bb415dfc977f3dc99.png",
+    "static/media/oconnell-resume.pdf": "/react-portfolio/static/media/oconnell-resume.b85e4bcbaedbe1f4e45e.pdf",
+    "static/media/Work-Day-Scheduler.png": "/react-portfolio/static/media/Work-Day-Scheduler.142921d8de60e75bbe38.png",
+    "static/media/note-taker-app.png": "/react-portfolio/static/media/note-taker-app.de25e445b89b5c5e5d5b.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.197fc1ec.css.map": "/react-portfolio/static/css/main.197fc1ec.css.map",
+    "main.a588bc66.js.map": "/react-portfolio/static/js/main.a588bc66.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.197fc1ec.css",
+    "static/js/main.a588bc66.js"
+  ]
+}
