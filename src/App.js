@@ -28,13 +28,13 @@ const App = () => {
 
       <footer id="footer">
         <div>
-          <a href='https://github.com/OConnell-Coder' target='_blank'>GitHub Profile</a>
+          <a href='https://github.com/OConnell-Coder' target='_blank' rel="noreferrer">GitHub Profile</a>
         </div>
         <div>
-          <a href='https://www.linkedin.com/in/stevie-o-connell-965051274/' target='_blank'>LinkedIn Profile</a>
+          <a href='https://www.linkedin.com/in/stevie-o-connell-965051274/' target='_blank' rel="noreferrer">LinkedIn Profile</a>
         </div>
         <div>
-          <a href="https://stackoverflow.com/users/20749466/stevie?tab=profile" target='_blank'>Stack Overflow Profile</a>
+          <a href="https://stackoverflow.com/users/20749466/stevie?tab=profile" target='_blank' rel="noreferrer">Stack Overflow Profile</a>
         </div>
       </footer>
     </div>

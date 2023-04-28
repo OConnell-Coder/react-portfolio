@@ -1,0 +1,31 @@
+#contact-form {
+    font-family: 'Times New Roman', Times, serif;
+    flex-direction: column;
+    padding: 10px;
+}
+
+input, #submit-btn {
+    width: 60%;
+    height: 50px;
+    border-style: inset;
+    border-color: black;
+    border-width: 3px;
+}
+
+#message-box {
+    height: 150px;
+}
+
+#submit-btn {
+    border-style: outset;
+}
+
+#contact-me {
+    padding-top: 100px;
+}
+
+span {
+    position: absolute;
+    font-size: 1.25rem;
+    color: red;
+}
