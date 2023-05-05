@@ -10,7 +10,7 @@ const Portfolio = () =>
             <div className='application' key={key}>
                 <img target='_blank' src={img} alt={title} />
                 <div className='description'>
-                    <h3>{title}</h3>
+                    <h4>{title}</h4>
                     <p>{description}</p>
                     <a href={repo} target='_blank'>GitHub Repo Link</a>
                     <div>
