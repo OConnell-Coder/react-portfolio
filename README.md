@@ -11,6 +11,7 @@ This version of my portfolio was created to practice using React. With React, I'
 - [Credits](#credits)
 - [License](#license)
 - [Links](#links)
+- [Screenshots](#screenshots)
 
 ## Installation
 
@@ -33,3 +34,10 @@ MIT License
 GitHub Repo Link: https://github.com/OConnell-Coder/react-portfolio
 
 Deployed Website Link: https://oconnell-coder.github.io/react-portfolio/
+
+## Screenshots
+
+![About Me Page](assets/about-me-pg.png)
+![Portfolio Page](assets/portfolio-pg.png)
+![Contact Page](assets/contact-pg.png)
+![Resume Page](assets/resume-pg.png)
