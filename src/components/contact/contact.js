@@ -2,6 +2,7 @@ import './contact.css';
 // import { useForm } from "react-hook-form";
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
+import background from './assets/Me-at-Derrynane-Kerry-2011.jpg';
 
 export const Contact = () => {
   const form = useRef();
@@ -26,7 +27,7 @@ export const Contact = () => {
   };
 
   return (
-    <div id="contact-pg">
+    <div id="contact-pg" style={{backgroundImage: `url(${background})`}}>
         <h1 id="contact-me">Contact Me</h1>
         <form ref={form} onSubmit={sendEmail} id="contact-form">
             {/* <label htmlFor="name">Name</label> */}
