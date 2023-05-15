@@ -33,9 +33,6 @@ const App = () => {
         <div>
           <a href='https://www.linkedin.com/in/stevie-o-connell-965051274/' target='_blank' rel="noreferrer">LinkedIn Profile</a>
         </div>
-        <div>
-          <a href="https://stackoverflow.com/users/20749466/stevie?tab=profile" target='_blank' rel="noreferrer">Stack Overflow Profile</a>
-        </div>
       </footer>
     </div>
   );
